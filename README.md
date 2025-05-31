@@ -1,2 +1,1 @@
-# 221317_TuanPhong
-Bài tập Github
+This repository is used for learning GitHub on web
