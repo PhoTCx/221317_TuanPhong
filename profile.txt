@@ -1,5 +1,3 @@
 Name: Tuấn Phong
 Interests: Coding, Design
 Skills: Programming
-
-Edit this file
